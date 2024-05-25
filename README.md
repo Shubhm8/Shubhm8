@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Hi,I'm Shubh Mishra! 👋
-👩🏻‍🎓 Studying Computer Science at the Noida Institute Of Engineering And Technology,Greater Noida<br>💭 Currently learning Java And Data Structures!
+👩🏻‍🎓 Studying Computer Science at the Noida Institute Of Engineering And Technology,Greater Noida<br>
+💭 Currently learning Java And Data Structures!<br/>
+📫 How to reach me shubhm8335@gmail.com
+
 
 
 # 💻 Tech Stack:
