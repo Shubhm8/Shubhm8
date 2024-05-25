@@ -1,6 +1,6 @@
 ## Hi,I'm Shubh Mishra! 👋
-👩🏻‍🎓 Studying Computer Science at the Noida Institute Of Engineering And Technology,Greater Noida
-💭 Currently learning Java And Data Structures!
+👩🏻‍🎓 Studying Computer Science at the Noida Institute Of Engineering And Technology,Greater Noida<br/>
+💭 Currently learning Java And Data Structures!<br/>
 
 
 <!--
